@@ -20,7 +20,6 @@ function  sayHiToGrandma(string) {
   if (string.toUpperCase())
   return "YES INDEED!"
 }
-var strings = "I love you, Grandma."
 
 function  sayHiToGrandma(strings) {
   return "I love you, too."
